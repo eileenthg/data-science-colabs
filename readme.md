@@ -15,6 +15,6 @@ View the notebook online [here](https://nbviewer.org/github/eileenthg/data-scien
 ## Data scraping the Malay wikipedia
 Scraping data about famous people who has signatures on the Malay Wikipedia, then saving it into a .csv file. Utilises python's scrapy package.
 
-Report hosted on (medium.com)[https://medium.com/@a180693/scraping-data-from-malay-wikipedia-biographies-6d3fd5ef9ab7].
+Report hosted on [medium.com](https://medium.com/@a180693/scraping-data-from-malay-wikipedia-biographies-6d3fd5ef9ab7).
 
 View the notebook online [here](https://nbviewer.org/github/eileenthg/data-science-colabs/blob/main/data_scrape_full_code.ipynb)
