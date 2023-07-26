@@ -2,6 +2,8 @@
 
 This hosts all my Colab projects from my Data Science specialisation when I pursued my university degree.
 
+In addition, you can check out my Tableau visualisations [here](https://public.tableau.com/app/profile/eileen.tong.hui.guan)
+
 ## Scraping from Twitter using Twint, then performing NLP cleaning and analysis
 Focused on data cleaning. Text cleaning, language filtering, and text normalisation. Biggest effort went to an attempt at hashtag and glued words splitting. ("thisissomegluedwords" -> "this is some glued words")
 
